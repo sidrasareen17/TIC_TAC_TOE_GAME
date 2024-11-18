@@ -12,7 +12,7 @@ Option to restart the game after a win or draw
 Installation Instructions:
 Clone the repository or download the project files to your local machine.
 
-Ensure you have Python installed (version 3.x recommended). You can download Python from https://www.python.org/.
+Ensure you have java installed (version 3.x recommended). You can download java from https://www.java.org/.
 
 Navigate to the project folder using the command line or terminal.
 
